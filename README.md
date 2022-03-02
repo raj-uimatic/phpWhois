@@ -11,7 +11,7 @@ Requirements
 Installation
 ------------
 
-`php composer.phar require "umitract/phpwhois":"~4.2.6"`
+`php composer.phar require "raj-uimatic/phpwhois":"~4.2.6"`
 
 Example usage
 -------------
